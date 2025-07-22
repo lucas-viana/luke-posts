@@ -8,5 +8,10 @@
     "id": 2,
     "title": "Segundo Post",
     "body": "Mais conteúdo"
+  },
+  {
+    "id": 3,
+    "title": "Pergunta pro Emerson",
+    "body": "Será que vale a média?"
   }
 ]
